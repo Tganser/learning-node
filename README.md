@@ -1,6 +1,6 @@
 
 # Module Madness
------------------------
+
 In this challenge, you will need to spin up a new project (much like we did in lecture). You will create three modules as specified below, then create a server.js that will use these modules!
 
 ## Module One - Generate a Random Number
